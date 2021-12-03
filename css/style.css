@@ -411,6 +411,7 @@ body{
 }
 
 .contact .row .form-container input, textarea{
+  text-transform: none;
   outline: none;
   border:none;
   height:4rem;
